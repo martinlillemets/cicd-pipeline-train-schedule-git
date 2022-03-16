@@ -5,3 +5,6 @@
 build
 dist
 node_modules
+
+# Ignore Vim undo file
+*.un~
